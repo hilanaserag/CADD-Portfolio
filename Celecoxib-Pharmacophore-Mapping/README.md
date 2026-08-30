@@ -50,7 +50,7 @@ Pyrazole Center        |	Centroid of Pyrazole |	2.5432	     |  -0.9418       |	-
 The pyrazole centroid was calculated as the arithmetic mean of the
 X, Y, and Z coordinates of the five atoms forming the pyrazole ring.
 
-![Pyrazole centroid calculation](figures/pyrazole_centroid_calculation.png)
+![Pyrazole centroid calculation](figures/pyrazole_centroid_caculation.png)
 
 ## Results
 
@@ -61,12 +61,20 @@ The geometric centroid of the pyrazole ring was calculated from the
 coordinates of its five constituent atoms using Microsoft Excel.
 
 ## Visualization
-
+celecoxib_3d_structure
 ![Celecoxib pharmacophore mapping](figures/celecoxib_3d_structure.png)
+
+cf3_carbon_coordinates
 ![Celecoxib pharmacophore mapping](figures/cf3_carbon_coordinates.png)
+
+sulfonamide_nitrogen_coordinates
 ![Celecoxib pharmacophore mapping](figures/sulfonamide_nitrogen_coordinates.png)
+
+pyrazole_nitrogen_coordinates
 ![Celecoxib pharmacophore mapping](figures/pyrazole_nitrogen_coordinates.png)
-![Celecoxib pharmacophore mapping](figures/pyrazole_centroid_calculation.png)
+
+pyrazole_centroid_caculation
+![Celecoxib pharmacophore mapping](figures/pyrazole_centroid_caculation.png)
 
 ## Scientific Notes
 
@@ -74,10 +82,6 @@ The sulfonamide nitrogen acts as a hydrogen bond donor due to its N–H bonds.
 The sulfonyl oxygens and the appropriate pyrazole nitrogen act as hydrogen bond acceptors.
 
 The CF₃ group is classified as hydrophobic rather than a conventional hydrogen bond acceptor. Although fluorine is highly electronegative, its electron density and lone pairs are strongly localized and tightly held, making them energetically less available for conventional hydrogen-bond acceptance.
-
-## Author
-
-**Hilana Serag**
 
 ## Author
 
