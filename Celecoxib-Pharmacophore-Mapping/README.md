@@ -85,4 +85,4 @@ The CF₃ group is classified as hydrophobic rather than a conventional hydrogen
 
 ## Author
 
-**Hilana Serag**
+**Hilana Mounir**
