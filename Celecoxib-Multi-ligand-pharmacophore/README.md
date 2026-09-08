@@ -35,7 +35,7 @@ A flexible alignment procedure was performed to identify common structural arran
 
 The selected configuration ranked **3rd out of 55** based on the F (fitness) score (**F = −117.82**). It also exhibited the **most favorable S score** among the generated configurations (**S = −61.99**), supporting its selection for subsequent consensus pharmacophore generation.
 
-![flexible alignment result](Figures/flexible_alignment_result.png)
+![flexible_alignment_result](Figures/flexible_alignment_result.png)
 
 ### 3. Consensus Pharmacophore Generation
 
