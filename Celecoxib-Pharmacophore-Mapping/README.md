@@ -40,10 +40,11 @@ SMILES:
 
 ## 3D Feature Coordinate Analysis
 
-Feature	Representative | Atom                  |	X Coordinate |	Y Coordinate  | Z Coordinate
-Sulfonamide Nitrogen   |	N (sulfonamide)      |	-4.784	     |  -2.660       	| -1.345
-Trifluoromethyl Carbon |	C (trifluoromethyl)  |	4.812        |	-2.229      	| -0.041
-Pyrazole Center        |	Centroid of Pyrazole |	2.5432	     |  -0.9418       |	-0.0504
+| Pharmacophore feature        | Representative atom/point |      X |       Y |       Z |
+| ---------------------------- | ------------------------- | -----: | ------: | ------: |
+| **Sulfonamide HBD**          | N (sulfonamide)           | -4.784 |  -2.660 |  -1.345 |
+| **Hydrophobic feature**      | C (trifluoromethyl)       |  4.812 |  -2.229 |  -0.041 |
+| **Pyrazole aromatic region** | Pyrazole centroid         | 2.5432 | -0.9418 | -0.0504 |
 
 ### Pyrazole Centroid Calculation
 
