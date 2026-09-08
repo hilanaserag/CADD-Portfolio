@@ -35,7 +35,7 @@ A flexible alignment procedure was performed to identify common structural arran
 
 The selected configuration ranked **3rd out of 55** based on the F (fitness) score (**F = −117.82**). It also exhibited the **most favorable S score** among the generated configurations (**S = −61.99**), supporting its selection for subsequent consensus pharmacophore generation.
 
-![Flexible Alignment Result](Figures/flexible_alignment_result.png)
+![flexible alignment result](Figures/flexible_alignment_result.png)
 
 ### 3. Consensus Pharmacophore Generation
 
@@ -50,11 +50,11 @@ The resulting consensus pharmacophore consisted of:
 
 Thus, the final PH4 query contained **two aromatic/hydrophobic alternative features (F1 and F3), one aromatic-only feature (F2), and one chemically versatile interaction feature (F4).**
 
-![Pharmacophore Consensus Settings](Figures/pharmacophore_consensus_settings.png)
+![pharmacophore consensus settings](Figures/pharmacophore_consensus_settings.png)
 
-![Selected Pharmacophore Features](Figures/selected_pharmacophore_features_on_aligned_ligands.png)
+![selected pharmacophore features](Figures/selected_pharmacophore_features_on_aligned_ligands.png)
 
-![COX-2 Consensus Pharmacophore](Figures/COX2_consensus_pharmacophore.png)
+![COX-2 consensus pharmacophore](Figures/COX2_consensus_pharmacophore.png)
 
 ### 4. Pharmacophore-Based Virtual Screening
 
@@ -66,7 +66,7 @@ The generated PH4 query was used in **Compute → Pharmacophore Search → Query
 
 One representative hit was selected from the 340 retrieved compounds for visual inspection. The final PH4 pharmacophore query was mapped onto the selected hit to assess whether the identified pharmacophoric requirements were geometrically satisfied.
 
-![Representative Hit Mapped to PH4](Figures/representative_hit_mapped_to_PH4.png)
+![representative hit mapped to PH4](Figures/representative_hit_mapped_to_PH4.png)
 
 ## Results
 
