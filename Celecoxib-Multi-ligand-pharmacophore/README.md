@@ -87,3 +87,7 @@ One representative hit was selected from the 340 retrieved compounds for visual 
 * **MOE (Molecular Operating Environment)** — multi-ligand flexible alignment, consensus pharmacophore modeling, pharmacophore editing, and virtual screening.
 * **PubChem** — retrieval of ligand structures and the screening compound library.
 * **Open Babel** — molecular file format conversion from SDF to MOL2.
+
+## Author
+
+Hilana Mounir
