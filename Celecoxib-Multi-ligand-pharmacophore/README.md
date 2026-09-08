@@ -39,6 +39,10 @@ The selected configuration ranked **3rd out of 55** based on the F (fitness) sco
 
 ### 3. Consensus Pharmacophore Generation
 
+I've selected the PCH-All scheme to allow consideration of all relevant pharmacophoric feature types during consensus analysis, enabling the identification of conserved chemical features shared among the aligned COX-2 inhibitors without restricting the analysis to a predefined feature class.
+
+![pharmacophore_consensus_settings](figures/pharmacophore_consensus_settings.png)
+
 The selected alignment configuration was subjected to pharmacophore consensus analysis using the aligned ligand structures. Pharmacophoric features occurring at a threshold of **>75%** were selected and loaded into the Pharmacophore Editor to generate the final four-feature pharmacophore query (PH4).
 
 The resulting consensus pharmacophore consisted of:
@@ -49,8 +53,6 @@ The resulting consensus pharmacophore consisted of:
 * **F4:** ML | Acc | Ani | Don — metal-ligand, hydrogen-bond acceptor, anionic, or hydrogen-bond donor feature
 
 Thus, the final PH4 query contained **two aromatic/hydrophobic alternative features (F1 and F3), one aromatic-only feature (F2), and one chemically versatile interaction feature (F4).**
-
-![pharmacophore_consensus_settings](figures/pharmacophore_consensus_settings.png)
 
 ![selected_pharmacophore_features_on_aligned_ligands](figures/selected_pharmacophore_features_on_aligned_ligands.png)
 
