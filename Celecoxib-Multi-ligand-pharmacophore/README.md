@@ -50,11 +50,11 @@ The resulting consensus pharmacophore consisted of:
 
 Thus, the final PH4 query contained **two aromatic/hydrophobic alternative features (F1 and F3), one aromatic-only feature (F2), and one chemically versatile interaction feature (F4).**
 
-![pharmacophore consensus settings](Figures/pharmacophore_consensus_settings.png)
+![pharmacophore_consensus_settings](Figures/pharmacophore_consensus_settings.png)
 
-![selected pharmacophore features](Figures/selected_pharmacophore_features_on_aligned_ligands.png)
+![selected_pharmacophore_features_on_aligned_ligands](Figures/selected_pharmacophore_features_on_aligned_ligands.png)
 
-![COX-2 consensus pharmacophore](Figures/COX2_consensus_pharmacophore.png)
+![COX2_consensus_pharmacophore](Figures/COX2_consensus_pharmacophore.png)
 
 ### 4. Pharmacophore-Based Virtual Screening
 
@@ -66,7 +66,7 @@ The generated PH4 query was used in **Compute → Pharmacophore Search → Query
 
 One representative hit was selected from the 340 retrieved compounds for visual inspection. The final PH4 pharmacophore query was mapped onto the selected hit to assess whether the identified pharmacophoric requirements were geometrically satisfied.
 
-![representative hit mapped to PH4](Figures/representative_hit_mapped_to_PH4.png)
+![representative_hit_mapped_to_PH4](Figures/representative_hit_mapped_to_PH4.png)
 
 ## Results
 
