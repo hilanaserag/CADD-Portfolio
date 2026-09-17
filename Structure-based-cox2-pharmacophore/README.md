@@ -24,7 +24,7 @@ To identify key protein–ligand interactions within the COX-2 binding site and 
 
 **Figure — Protein–ligand complex after retaining one representative subunit.**
 
-![protein preparation](figures/protein_preparation.png)
+![protein preparation](figures/protein preparation.png)
 
 ---
 
@@ -35,7 +35,7 @@ To identify key protein–ligand interactions within the COX-2 binding site and 
 
 **Figure — Identified binding-site residues (Arg202 and Asn130).**
 
-![binding site residues](figures/binding_site_residues.png)
+![binding site residues](figures/binding site residues.png)
 
 ---
 
@@ -50,7 +50,7 @@ To identify key protein–ligand interactions within the COX-2 binding site and 
 
 **Figure — Structure-based pharmacophore query showing the two interaction features.**
 
-![structure based pharmacophore](figures/structure_based_pharmacophore.png)
+![structure based pharmacophore](figures/structure based pharmacophore.png)
 
 ---
 
@@ -62,7 +62,7 @@ To identify key protein–ligand interactions within the COX-2 binding site and 
 
 **Figure — Virtual screening / docking results.**
 
-![virtual screening result](figures/virtual_screening_result.png)
+![virtual screening result](figures/virtual screening result.png)
 
 ---
 
