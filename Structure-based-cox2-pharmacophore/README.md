@@ -22,9 +22,9 @@ To identify key protein–ligand interactions within the COX-2 binding site and 
 * The complex contained **four similar protein subunits**. Since the subunits have the same structural context, **three subunits were removed and one subunit was retained** for the analysis.
 * Working with a single subunit allowed the analysis to remain focused on one representative COX-2 binding site, while the same structural context is present across the corresponding subunits.
 
-**Figure 1 — Protein–ligand complex after retaining one representative subunit.**
+**Figure — Protein–ligand complex after retaining one representative subunit.**
 
-![Protein preparation](figures/01_protein_preparation.png)
+![Protein preparation](figures/protein_preparation.png)
 
 ---
 
@@ -33,9 +33,9 @@ To identify key protein–ligand interactions within the COX-2 binding site and 
 * Examined the Celecoxib binding site of the retained subunit to identify key protein–ligand interactions.
 * **Arg202** and **Asn130** were identified as key residues used for structure-based pharmacophore generation.
 
-**Figure 2 — Identified binding-site residues (Arg202 and Asn130).**
+**Figure — Identified binding-site residues (Arg202 and Asn130).**
 
-![Binding site residues](figures/02_binding_site_residues.png)
+![Binding site residues](figures/binding_site_residues.png)
 
 ---
 
@@ -48,9 +48,9 @@ To identify key protein–ligand interactions within the COX-2 binding site and 
   * **F2: AtomQ** — associated with **Asn130**
 * The pharmacophore query was constructed using the **PCH-All** feature scheme.
 
-**Figure 3 — Structure-based pharmacophore query showing the two interaction features.**
+**Figure — Structure-based pharmacophore query showing the two interaction features.**
 
-![Structure-based pharmacophore](figures/03_structure_based_pharmacophore.png)
+![Structure-based pharmacophore](figures/structure_based_pharmacophore.png)
 
 ---
 
@@ -60,9 +60,9 @@ To identify key protein–ligand interactions within the COX-2 binding site and 
 * Identified compounds capable of satisfying the defined interaction requirements within the COX-2 binding site.
 * A representative screening hit (**CID 5090**) was identified as capable of satisfying the defined interaction requirements.
 
-**Figure 4 — Virtual screening / docking results.**
+**Figure — Virtual screening / docking results.**
 
-![Virtual screening result](figures/04_virtual_screening_result.png)
+![Virtual screening result](figures/virtual_screening_result.png)
 
 ---
 
