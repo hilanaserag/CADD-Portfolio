@@ -2,9 +2,9 @@
 
 ## Project Focus
 
-**Target:** Cyclooxygenase-2 (COX-2)
-**Reference Ligand:** Celecoxib
-**Approach:** Structure-Based Pharmacophore Modeling & Virtual Screening
+* **Target:** Cyclooxygenase-2 (COX-2)
+* **Reference Ligand:** Celecoxib
+* **Approach:** Structure-Based Pharmacophore Modeling & Virtual Screening
 
 ---
 
@@ -79,8 +79,8 @@ To identify key protein–ligand interactions within the COX-2 binding site and 
 
 ## Software & Resources
 
-**Molecular Operating Environment (MOE)**
-**Protein Data Bank (PDB)**
+* **Molecular Operating Environment (MOE)**
+* **Protein Data Bank (PDB)**
 
 ---
 
